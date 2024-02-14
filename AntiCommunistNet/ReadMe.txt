@@ -1,0 +1,3 @@
+La mémoire GPU nécessaire est de 12 Go. Si vous disposez d'une mémoire inférieure, vous pouvez modifier la taille des images ou des batchs dans le fichier "train.py". 
+Le nombre d'époques à exécuter doit être adapté en fonction de la quantité de données présente dans les dossiers correspondants, presentement 20 époques pour 8k images d'entrainement. 
+Il est à noter que le test est limité à un seul batch d'images.
