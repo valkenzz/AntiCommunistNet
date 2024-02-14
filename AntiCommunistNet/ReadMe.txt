@@ -1,3 +1,3 @@
-La mémoire GPU nécessaire est de 12 Go. Si vous disposez d'une mémoire inférieure, vous pouvez modifier la taille des images ou des batchs dans le fichier "train.py". 
-Le nombre d'époques à exécuter doit être adapté en fonction de la quantité de données présente dans les dossiers correspondants, presentement 20 époques pour 8k images d'entrainement. 
-Il est à noter que le test est limité à un seul batch d'images.
+The necessary GPU memory is 12 GB. If you have less memory available, you can modify the size of the images or batches in the "train.py" file.
+The number of epochs to run should be adjusted according to the amount of data present in the corresponding folders, currently set to 20 epochs for 8k training images.
+It should be noted that the test is limited to a single batch of images.
