@@ -1,0 +1,3 @@
+/media/seagate/vmeo/campagne/petit/training/4cdq15007_530_rgb.tif_1_3.png
+/media/seagate/vmeo/campagne/petit/training/11cdq15007_929_rgb.tif_1_2.png
+/media/seagate/vmeo/campagne/petit/training/8cdq15007_482_rgb.tif_1_3.png
